@@ -1,0 +1,23 @@
+﻿complaint_id,order_id,complaint_type,raised_date,resolved_date,courier_partner
+CMP001,ORD002,Late Delivery,15-01-2024,18-01-2024,BlueDart
+CMP002,ORD005,Wrong Item,28-01-2024,01-02-2024,Delhivery
+CMP003,ORD007,Damaged Product,08-02-2024,12-02-2024,Ekart
+CMP004,ORD010,Late Delivery,21-02-2024,24-02-2024,BlueDart
+CMP005,ORD012,Missing Item,05-03-2024,09-03-2024,Delhivery
+CMP006,ORD015,Wrong Item,18-03-2024,22-03-2024,Ekart
+CMP007,ORD017,Late Delivery,28-03-2024,01-04-2024,BlueDart
+CMP008,ORD019,Damaged Product,10-04-2024,15-04-2024,Delhivery
+CMP009,ORD021,Late Delivery,19-04-2024,21-04-2024,Ekart
+CMP010,ORD023,Missing Item,27-04-2024,30-04-2024,BlueDart
+CMP011,ORD026,Late Delivery,15-05-2024,19-05-2024,Delhivery
+CMP012,ORD029,Wrong Item,28-05-2024,02-06-2024,Ekart
+CMP013,ORD031,Damaged Product,08-06-2024,12-06-2024,BlueDart
+CMP014,ORD033,Late Delivery,17-06-2024,19-06-2024,Delhivery
+CMP015,ORD035,Missing Item,25-06-2024,29-06-2024,Ekart
+CMP016,ORD037,Late Delivery,08-07-2024,11-07-2024,BlueDart
+CMP017,ORD039,Damaged Product,17-07-2024,22-07-2024,Delhivery
+CMP018,ORD041,Late Delivery,25-07-2024,27-07-2024,Ekart
+CMP019,ORD043,Wrong Item,05-08-2024,10-08-2024,BlueDart
+CMP020,ORD045,Late Delivery,13-08-2024,16-08-2024,Delhivery
+CMP021,ORD047,Missing Item,22-08-2024,26-08-2024,Ekart
+CMP022,ORD049,Late Delivery,04-09-2024,07-09-2024,BlueDart
